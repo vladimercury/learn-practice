@@ -1,0 +1,6 @@
+This is a &symbol;
+This is &not a symbol;
+This is not &a symbol; too
+so much &s;y&m;b&o;ls here
+semicolons but no ampersand;;;
+ampersand but no semicolons &&&
